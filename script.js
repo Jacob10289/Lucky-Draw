@@ -1,12 +1,10 @@
-// ==================== FIREBASE CONFIG - THAY ĐỔI Ở ĐÂY ====================
 const FIREBASE_CONFIG = {
-    apiKey: "YOUR_API_KEY",
-    authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
-    databaseURL: "https://YOUR_PROJECT_ID-default-rtdb.firebaseio.com",
-    projectId: "YOUR_PROJECT_ID",
-    storageBucket: "YOUR_PROJECT_ID.appspot.com",
-    messagingSenderId: "YOUR_SENDER_ID",
-    appId: "YOUR_APP_ID"
+   apiKey: "AIzaSyA8i-ZCFPvRHxojMOrPIP0kIHdO25cfJiA",
+  authDomain: "lucky-draw-app-858d1.firebaseapp.com",
+  projectId: "lucky-draw-app-858d1",
+  storageBucket: "lucky-draw-app-858d1.firebasestorage.app",
+  messagingSenderId: "192234294023",
+  appId: "1:192234294023:web:c7d17038643c89a86193a2"
 };
 
 // ==================== IMPORTS ====================
